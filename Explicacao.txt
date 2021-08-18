@@ -1,0 +1,14 @@
+- O C# utiliza o conceito de máquina virtual, a CLR (Common Language Runtime). Um tipo de computador virtual que gerencia a execução de programas .NET. Nesse caso, ele executa o código em uma linguagem intermediária, a CIL (Common Intermediate Language). Então o CLR pega esse código intermediário e o converte em código de máquina utilizando o compilador JIT (Just In Time). Apos isso o código é executado.
+
+--- Ambiente de desenvolvimento
+
+- Aba Server Explorer: responsável por fazer conexão com algum servidor, seja ele de banco de dados ou de nuvem. Para saber o Server Name é só digitar services.msc no gerenciador do windows e pegar o serviço do banco rodando (exemplo isso).
+
+- Convenção para criação de projeto: Empresa.Projeto.Camada
+Exemplo 1: DesenvolvedorIO.ProjetoAula.InterfaceUsuario
+Exemplo 2: DesenvolvedorIO.ProjetoAula.RegrasDeNegocio
+Exemplo 3: DesenvolvedorIO.ProjetoAula.AcessoBancoDeDados
+
+- Aba Team Explorer: responsável por se conectar a alguns repositórios remotos, como no github. Então a partir dela eu consigo buscar o projeto em um repositório fora da minha máquina e trazer o código fonte pra máquina.
+
+- Namespace: uma forma que o .net framework usa para organizar os projetos e suas classes.
