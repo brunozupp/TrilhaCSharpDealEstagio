@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademiaDoNet.CursoCSharp.ConsoleApplication", "AcademiaDoNet.CursoCSharp.ConsoleApplication\AcademiaDoNet.CursoCSharp.ConsoleApplication.csproj", "{E16719E1-160B-4CA9-BE2C-F93E78692991}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcademiaDoNet.CursoCSharp.ConsoleApplication", "AcademiaDoNet.CursoCSharp.ConsoleApplication\AcademiaDoNet.CursoCSharp.ConsoleApplication.csproj", "{E16719E1-160B-4CA9-BE2C-F93E78692991}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DealEstagio.TreinamentoCSharp.Exercicios", "DealEstagio.TreinamentoCSharp.Exercicios\DealEstagio.TreinamentoCSharp.Exercicios.csproj", "{0AD4718C-696F-4069-9EE7-68431EF1B5E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DealEstagio.TreinamentoCSharp.Exercicios", "DealEstagio.TreinamentoCSharp.Exercicios\DealEstagio.TreinamentoCSharp.Exercicios.csproj", "{0AD4718C-696F-4069-9EE7-68431EF1B5E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DealEstagio.TreinamentoCSharp.Aulas", "DealEstagio.TreinamentoCSharp.Aulas\DealEstagio.TreinamentoCSharp.Aulas.csproj", "{7D8AAE9B-7DF8-4790-8108-59E5DD930F67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.CursoCSharp.PrimeiraParteOOP", "Udemy.CursoCSharp.PrimeiraParteOOP\Udemy.CursoCSharp.PrimeiraParteOOP.csproj", "{9F49454F-2480-4333-A66F-424C3769F653}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{0AD4718C-696F-4069-9EE7-68431EF1B5E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AD4718C-696F-4069-9EE7-68431EF1B5E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AD4718C-696F-4069-9EE7-68431EF1B5E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D8AAE9B-7DF8-4790-8108-59E5DD930F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8AAE9B-7DF8-4790-8108-59E5DD930F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8AAE9B-7DF8-4790-8108-59E5DD930F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8AAE9B-7DF8-4790-8108-59E5DD930F67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F49454F-2480-4333-A66F-424C3769F653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F49454F-2480-4333-A66F-424C3769F653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F49454F-2480-4333-A66F-424C3769F653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F49454F-2480-4333-A66F-424C3769F653}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

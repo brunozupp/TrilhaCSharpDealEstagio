@@ -12,3 +12,10 @@ Exemplo 3: DesenvolvedorIO.ProjetoAula.AcessoBancoDeDados
 - Aba Team Explorer: responsável por se conectar a alguns repositórios remotos, como no github. Então a partir dela eu consigo buscar o projeto em um repositório fora da minha máquina e trazer o código fonte pra máquina.
 
 - Namespace: uma forma que o .net framework usa para organizar os projetos e suas classes.
+
+
+
+
+https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/types/casting-and-type-conversions
+
+https://github.com/brunozupp/TrilhaCSharpDealEstagio
